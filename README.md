@@ -8,6 +8,10 @@ The USGS is interested in building a new set of tools that will allow them to vi
 
 ## Part 1: Create the Earthquake Visualization
 
+Source files:
+* [index.html](Leaflet-Part-1/index.html)
+* [logic.js](Leaflet-Part-1/logic.js)
+
 Your first task is to visualize an earthquake dataset. Complete the following steps:
 
 1. Get your dataset. To do so, follow these steps:
@@ -39,6 +43,10 @@ Your first task is to visualize an earthquake dataset. Complete the following st
 ![My Map](./Images/my_map.png)
 
 ## Part 2: Gather and Plot More Data (Optional)
+
+Source files:
+* [index.html](Leaflet-Part-2/index.html)
+* [logic.js](Leaflet-Part-2/logic.js)
 
 Plot a second dataset on your map to illustrate the relationship between tectonic plates and seismic activity. You will need to pull in this dataset and visualize it alongside your original data. Data on tectonic plates can be found at https://github.com/fraxen/tectonicplatesLinks to an external site..
 
