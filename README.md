@@ -69,3 +69,13 @@ Perform the following tasks:
 ### Results 
 
 ![My Satellite Map](./Images/my_satellite_map.png)
+
+## References
+
+* Dataset created by the [United States Geological Survey](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)
+
+* Dataset created by [Hugo Ahlenius](https://github.com/fraxen/tectonicplates)
+
+* [Stack Overflow](https://stackoverflow.com/questions/tagged/leaflet)
+
+* [Leaflet Tutorial](https://leafletjs.com/)
