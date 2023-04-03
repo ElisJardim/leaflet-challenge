@@ -60,3 +60,4 @@ Perform the following tasks:
 
 ### Results 
 
+![My Satellite Map](./Images/my_satellite_map.png)

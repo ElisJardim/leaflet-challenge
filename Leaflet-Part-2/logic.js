@@ -146,7 +146,7 @@ function createMap(earthquakes) {
     // ===================== Add the tectonic plates info =============================
 
     // Create Query for Plate Tectonic JSON data.
-    var platesQuery = "data/PB2002_plates.json";
+    var platesQuery = "https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_steps.json";
 
     // Connect plateQuery into d3.JSON.
     d3.json(platesQuery, function (plates) {
